@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4745fc55500dcbb43a03835390bcf636, type: 3}
+  m_Name: Planeta-Humanos
+  m_EditorClassIdentifier: 
+  Nombre: Planeta
+  Descripcion: Puede crear unidades.
+  Imagen: {fileID: 21300000, guid: 83c9b1ffbf6b3be46a7da22fc63fc2f1, type: 3}
+  Prefab: {fileID: 853437977643786297, guid: b61af05139029e44da506088765ea97d, type: 3}
+  NombresDePlanetas:
+  - Vita
+  - Sphaera
+  - Idiriv
+  - Aqua
+  - Agros Aurea
+  namecount: 0

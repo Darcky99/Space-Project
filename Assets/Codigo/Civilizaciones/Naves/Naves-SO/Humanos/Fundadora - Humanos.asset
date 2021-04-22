@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acad0f1ffac613d46b29e5eeee2065bc, type: 3}
+  m_Name: Fundadora - Humanos
+  m_EditorClassIdentifier: 
+  TipoDeNave_: 7
+  Caracteristicas_: 08000000
+  Debilidades_: 00000000
+  Nombre: Helios - 10
+  Vida: 10
+  Ataque: 0
+  Defenza: 1
+  Esquive: 3
+  Movilidad: 4
+  Alcanze: 0
+  Costo: 10
+  Sprites:
+    Norte_Idle: {fileID: -5555995705961657787, guid: c9ee284583f729147b4921da63157ce5,
+      type: 3}
+    Noreste_Idle: {fileID: -3724965852349574507, guid: c9ee284583f729147b4921da63157ce5,
+      type: 3}
+    Este_Idle: {fileID: 8875576050891220655, guid: c9ee284583f729147b4921da63157ce5,
+      type: 3}
+    Sureste_Idle: {fileID: -8501237645435012444, guid: c9ee284583f729147b4921da63157ce5,
+      type: 3}
+    Sur_Idle: {fileID: 9128791142181939162, guid: c9ee284583f729147b4921da63157ce5,
+      type: 3}
+    Suroeste_Idle: {fileID: -7046378378815176977, guid: c9ee284583f729147b4921da63157ce5,
+      type: 3}
+    Oeste_Idle: {fileID: -6392948853322536374, guid: c9ee284583f729147b4921da63157ce5,
+      type: 3}
+    Noroeste_Idle: {fileID: 3929959299482350020, guid: c9ee284583f729147b4921da63157ce5,
+      type: 3}
+    Disparo: {fileID: 21300000, guid: bbdead7b409afed43bae569e251475dc, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13986e1663910be47bed91caa846cf3b, type: 3}
+  m_Name: Vanum
+  m_EditorClassIdentifier: 
+  CivilizacionNombre: 
+  color: {r: 0, g: 0, b: 0, a: 0}
+  Descripcion: "Son calientes\t"
+  Planeta: {fileID: 0}
+  NombresDePlanetas: []
+  CazaEstandar: {fileID: 11400000, guid: f99cf6cc09544c14ba355b1e86f14b64, type: 2}
+  Interceptor: {fileID: 0}
+  Fundadora: {fileID: 0}
+  NavePrefab: {fileID: 0}

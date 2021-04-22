@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6982bf97c1a8e84479c30ec1b20c3bd2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NodoDeMovimiento_Publico: {fileID: 8570176887598756020, guid: 647e8152a1f459e429ebabf0cac327e2,
+      type: 3}
+  - NodoAtaque_Publico: {fileID: 8570176887598756020, guid: f389eec4871f13e47a06979c19610b76,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
